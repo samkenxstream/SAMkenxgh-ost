@@ -10,7 +10,7 @@ require (
 	github.com/satori/go.uuid v1.2.0
 	golang.org/x/net v0.0.0-20210224082022-3d97a244fca7
 	golang.org/x/term v0.0.0-20220526004731-065cf7ba2467
-	golang.org/x/text v0.3.6
+	golang.org/x/text v0.3.8
 )
 
 require (
